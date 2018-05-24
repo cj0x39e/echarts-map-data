@@ -1,0 +1,730 @@
+{
+  "Singapore Rep.": {
+    "cn": "新加坡",
+    "mapFileName": "Singapore"
+  },
+  "Dominican Rep.": {
+    "cn": "多米尼加",
+    "mapFileName": "Dominican"
+  },
+  "Palestine": {
+    "cn": "巴勒斯坦",
+    "mapFileName": "Palestine"
+  },
+  "Bahamas": {
+    "cn": "巴哈马",
+    "mapFileName": "The_Bahamas"
+  },
+  "Timor-Leste": {
+    "cn": "东帝汶",
+    "mapFileName": "East_Timor"
+  },
+  "Afghanistan": {
+    "cn": "阿富汗",
+    "mapFileName": "Afghanistan"
+  },
+  "Guinea-Bissau": {
+    "cn": "几内亚比绍",
+    "mapFileName": "Guinea-Bissau"
+  },
+  "Côte d'Ivoire": {
+    "cn": "科特迪瓦"
+  },
+  "Siachen Glacier": {
+    "cn": "锡亚琴冰川"
+  },
+  "Br. Indian Ocean Ter.": {
+    "cn": "英属印度洋领土",
+    "mapFileName": "British_Indian_Ocean_Territory"
+  },
+  "Angola": {
+    "cn": "安哥拉",
+    "mapFileName": "Angola"
+  },
+  "Albania": {
+    "cn": "阿尔巴尼亚",
+    "mapFileName": "Albania"
+  },
+  "United Arab Emirates": {
+    "cn": "阿联酋",
+    "mapFileName": "United_Arab_Emirates"
+  },
+  "Argentina": {
+    "cn": "阿根廷",
+    "mapFileName": "Argentina"
+  },
+  "Armenia": {
+    "cn": "亚美尼亚",
+    "mapFileName": "Armenia"
+  },
+  "French Southern and Antarctic Lands": {
+    "cn": "法属南半球和南极领地"
+  },
+  "Australia": {
+    "cn": "澳大利亚",
+    "mapFileName": "Australia"
+  },
+  "Austria": {
+    "cn": "奥地利",
+    "mapFileName": "Austria"
+  },
+  "Azerbaijan": {
+    "cn": "阿塞拜疆",
+    "mapFileName": "Azerbaijan"
+  },
+  "Burundi": {
+    "cn": "布隆迪",
+    "mapFileName": "Burundi"
+  },
+  "Belgium": {
+    "cn": "比利时",
+    "mapFileName": "Belgium"
+  },
+  "Benin": {
+    "cn": "贝宁",
+    "mapFileName": "Benin"
+  },
+  "Burkina Faso": {
+    "cn": "布基纳法索",
+    "mapFileName": "Burkina_Faso"
+  },
+  "Bangladesh": {
+    "cn": "孟加拉",
+    "mapFileName": "Bangladesh"
+  },
+  "Bulgaria": {
+    "cn": "保加利亚",
+    "mapFileName": "Bulgaria"
+  },
+  "The Bahamas": {
+    "cn": "巴哈马",
+    "mapFileName": "The_Bahamas"
+  },
+  "Bosnia and Herz.": {
+    "cn": "波斯尼亚和黑塞哥维那",
+    "mapFileName": "Bosnia_and_Herzegovina"
+  },
+  "Belarus": {
+    "cn": "白俄罗斯",
+    "mapFileName": "Belarus"
+  },
+  "Belize": {
+    "cn": "伯利兹",
+    "mapFileName": "Belize"
+  },
+  "Bermuda": {
+    "cn": "百慕大",
+    "mapFileName": "Bermuda"
+  },
+  "Bolivia": {
+    "cn": "玻利维亚",
+    "mapFileName": "Bolivia"
+  },
+  "Brazil": {
+    "cn": "巴西",
+    "mapFileName": "Brazil"
+  },
+  "Brunei": {
+    "cn": "文莱",
+    "mapFileName": "Brunei"
+  },
+  "Bhutan": {
+    "cn": "不丹",
+    "mapFileName": "Bhutan"
+  },
+  "Botswana": {
+    "cn": "博茨瓦纳",
+    "mapFileName": "Botswana"
+  },
+  "Central African Rep.": {
+    "cn": "中非",
+    "mapFileName": "Central_African_Republic"
+  },
+  "Canada": {
+    "cn": "加拿大",
+    "mapFileName": "Canada"
+  },
+  "Switzerland": {
+    "cn": "瑞士"
+  },
+  "Chile": {
+    "cn": "智利",
+    "mapFileName": "Chile"
+  },
+  "China": {
+    "cn": "中国",
+    "mapFileName": "China"
+  },
+  "Ivory Coast": {
+    "cn": "象牙海岸"
+  },
+  "Cameroon": {
+    "cn": "喀麦隆",
+    "mapFileName": "Cameroon"
+  },
+  "Dem. Rep. Congo": {
+    "cn": "刚果(金)",
+    "mapFileName": "Congo-Kinshasa"
+  },
+  "Congo": {
+    "cn": "刚果(布)",
+    "mapFileName": "Congo-Brazzaville"
+  },
+  "Colombia": {
+    "cn": "哥伦比亚",
+    "mapFileName": "Colombia"
+  },
+  "Costa Rica": {
+    "cn": "哥斯达黎加",
+    "mapFileName": "Costa_Rica"
+  },
+  "Cuba": {
+    "cn": "古巴",
+    "mapFileName": "Cuba"
+  },
+  "N. Cyprus": {
+    "cn": "北塞浦路斯"
+  },
+  "Cyprus": {
+    "cn": "塞浦路斯",
+    "mapFileName": "Cyprus"
+  },
+  "Czech Rep.": {
+    "cn": "捷克",
+    "mapFileName": "Czechia"
+  },
+  "Germany": {
+    "cn": "德国",
+    "mapFileName": "Germany"
+  },
+  "Djibouti": {
+    "cn": "吉布提",
+    "mapFileName": "Djibouti"
+  },
+  "Denmark": {
+    "cn": "丹麦",
+    "mapFileName": "Denmark"
+  },
+  "Algeria": {
+    "cn": "阿尔及利亚",
+    "mapFileName": "Algeria"
+  },
+  "Ecuador": {
+    "cn": "厄瓜多尔",
+    "mapFileName": "Ecuador"
+  },
+  "Egypt": {
+    "cn": "埃及",
+    "mapFileName": "Egypt"
+  },
+  "Eritrea": {
+    "cn": "厄立特里亚",
+    "mapFileName": "Eritrea"
+  },
+  "Spain": {
+    "cn": "西班牙",
+    "mapFileName": "Spain"
+  },
+  "Estonia": {
+    "cn": "爱沙尼亚",
+    "mapFileName": "Estonia"
+  },
+  "Ethiopia": {
+    "cn": "埃塞俄比亚",
+    "mapFileName": "Ethiopia"
+  },
+  "Finland": {
+    "cn": "芬兰",
+    "mapFileName": "Finland"
+  },
+  "Fiji": {
+    "cn": "斐",
+    "mapFileName": "Fiji"
+  },
+  "Falkland Islands": {
+    "cn": "福克兰群岛",
+    "mapFileName": "Falkland_Islands"
+  },
+  "France": {
+    "cn": "法国",
+    "mapFileName": "France"
+  },
+  "Gabon": {
+    "cn": "加蓬",
+    "mapFileName": "Gabon"
+  },
+  "United Kingdom": {
+    "cn": "英国",
+    "mapFileName": "United_Kingdom"
+  },
+  "Georgia": {
+    "cn": "格鲁吉亚",
+    "mapFileName": "Georgia"
+  },
+  "Ghana": {
+    "cn": "加纳",
+    "mapFileName": "Ghana"
+  },
+  "Guinea": {
+    "cn": "几内亚",
+    "mapFileName": "Guinea"
+  },
+  "Gambia": {
+    "cn": "冈比亚",
+    "mapFileName": "The_Gambia"
+  },
+  "Guinea Bissau": {
+    "cn": "几内亚比绍",
+    "mapFileName": "Guinea-Bissau"
+  },
+  "Eq. Guinea": {
+    "cn": "赤道几内亚",
+    "mapFileName": "Equatorial_Guinea"
+  },
+  "Greece": {
+    "cn": "希腊",
+    "mapFileName": "Greece"
+  },
+  "Greenland": {
+    "cn": "格陵兰",
+    "mapFileName": "Greenland"
+  },
+  "Guatemala": {
+    "cn": "危地马拉",
+    "mapFileName": "Guatemala"
+  },
+  "French Guiana": {
+    "cn": "法属圭亚那"
+  },
+  "Guyana": {
+    "cn": "圭亚那",
+    "mapFileName": "Guyana"
+  },
+  "Honduras": {
+    "cn": "洪都拉斯",
+    "mapFileName": "Honduras"
+  },
+  "Croatia": {
+    "cn": "克罗地亚",
+    "mapFileName": "Croatia"
+  },
+  "Haiti": {
+    "cn": "海地",
+    "mapFileName": "Haiti"
+  },
+  "Hungary": {
+    "cn": "匈牙利",
+    "mapFileName": "Hungary"
+  },
+  "Indonesia": {
+    "cn": "印度尼西亚",
+    "mapFileName": "Indonesia"
+  },
+  "India": {
+    "cn": "印度",
+    "mapFileName": "India"
+  },
+  "Ireland": {
+    "cn": "爱尔兰",
+    "mapFileName": "Ireland"
+  },
+  "Iran": {
+    "cn": "伊朗",
+    "mapFileName": "Islamic_Republic_of_Iran"
+  },
+  "Iraq": {
+    "cn": "伊拉克",
+    "mapFileName": "Iraq"
+  },
+  "Iceland": {
+    "cn": "冰岛",
+    "mapFileName": "Iceland"
+  },
+  "Israel": {
+    "cn": "以色列",
+    "mapFileName": "Israel"
+  },
+  "Italy": {
+    "cn": "意大利",
+    "mapFileName": "Italy"
+  },
+  "Jamaica": {
+    "cn": "牙买加",
+    "mapFileName": "Jamaica"
+  },
+  "Jordan": {
+    "cn": "约旦",
+    "mapFileName": "Jordan"
+  },
+  "Japan": {
+    "cn": "日本",
+    "mapFileName": "Japan"
+  },
+  "Kazakhstan": {
+    "cn": "哈萨克斯坦",
+    "mapFileName": "Kazakhstan"
+  },
+  "Kenya": {
+    "cn": "肯尼亚",
+    "mapFileName": "Kenya"
+  },
+  "Kyrgyzstan": {
+    "cn": "吉尔吉斯斯坦",
+    "mapFileName": "Kyrgyzstan"
+  },
+  "Cambodia": {
+    "cn": "柬埔寨",
+    "mapFileName": "Cambodia"
+  },
+  "Korea": {
+    "cn": "韩国",
+    "mapFileName": "South_Korea"
+  },
+  "Kosovo": {
+    "cn": "科索沃",
+    "mapFileName": "Republic_of_Kosovo"
+  },
+  "Kuwait": {
+    "cn": "科威特",
+    "mapFileName": "Kuwait"
+  },
+  "Lao PDR": {
+    "cn": "老挝",
+    "mapFileName": "Laos"
+  },
+  "Lebanon": {
+    "cn": "黎巴嫩",
+    "mapFileName": "Lebanon"
+  },
+  "Liberia": {
+    "cn": "利比里亚",
+    "mapFileName": "Liberia"
+  },
+  "Libya": {
+    "cn": "利比亚",
+    "mapFileName": "Libya"
+  },
+  "Sri Lanka": {
+    "cn": "斯里兰卡",
+    "mapFileName": "Sri_Lanka"
+  },
+  "Lesotho": {
+    "cn": "莱索托",
+    "mapFileName": "Lesotho"
+  },
+  "Lithuania": {
+    "cn": "立陶宛",
+    "mapFileName": "Lithuania"
+  },
+  "Luxembourg": {
+    "cn": "卢森堡",
+    "mapFileName": "Luxemburg"
+  },
+  "Latvia": {
+    "cn": "拉脱维亚",
+    "mapFileName": "Latvia"
+  },
+  "Morocco": {
+    "cn": "摩洛哥",
+    "mapFileName": "Morocco"
+  },
+  "Moldova": {
+    "cn": "摩尔多瓦",
+    "mapFileName": "Moldova"
+  },
+  "Madagascar": {
+    "cn": "马达加斯加",
+    "mapFileName": "Madagascar"
+  },
+  "Mexico": {
+    "cn": "墨西哥",
+    "mapFileName": "Mexico"
+  },
+  "Macedonia": {
+    "cn": "马其顿",
+    "mapFileName": "Macedonia"
+  },
+  "Mali": {
+    "cn": "马里",
+    "mapFileName": "Mali"
+  },
+  "Myanmar": {
+    "cn": "缅甸",
+    "mapFileName": "Myanmar"
+  },
+  "Montenegro": {
+    "cn": "黑山",
+    "mapFileName": "Montenegro"
+  },
+  "Mongolia": {
+    "cn": "蒙古",
+    "mapFileName": "Mongolia"
+  },
+  "Mozambique": {
+    "cn": "莫桑比克",
+    "mapFileName": "Mozambique"
+  },
+  "Mauritania": {
+    "cn": "毛里塔尼亚",
+    "mapFileName": "Mauritania"
+  },
+  "Malawi": {
+    "cn": "马拉维",
+    "mapFileName": "Malawi"
+  },
+  "Malaysia": {
+    "cn": "马来西亚",
+    "mapFileName": "Malaysia"
+  },
+  "Namibia": {
+    "cn": "纳米比亚",
+    "mapFileName": "Namibia"
+  },
+  "New Caledonia": {
+    "cn": "新喀里多尼亚"
+  },
+  "Niger": {
+    "cn": "尼日尔",
+    "mapFileName": "Niger"
+  },
+  "Nigeria": {
+    "cn": "尼日利亚",
+    "mapFileName": "Nigeria"
+  },
+  "Nicaragua": {
+    "cn": "尼加拉瓜",
+    "mapFileName": "Nicaragua"
+  },
+  "Netherlands": {
+    "cn": "荷兰",
+    "mapFileName": "The_Netherlands"
+  },
+  "Norway": {
+    "cn": "挪威",
+    "mapFileName": "Norway"
+  },
+  "Nepal": {
+    "cn": "尼泊尔",
+    "mapFileName": "Nepal"
+  },
+  "New Zealand": {
+    "cn": "新西兰",
+    "mapFileName": "New_Zealand"
+  },
+  "Oman": {
+    "cn": "阿曼",
+    "mapFileName": "Oman"
+  },
+  "Pakistan": {
+    "cn": "巴基斯坦",
+    "mapFileName": "Pakistan"
+  },
+  "Panama": {
+    "cn": "巴拿马",
+    "mapFileName": "Panama"
+  },
+  "Peru": {
+    "cn": "秘鲁",
+    "mapFileName": "Peru"
+  },
+  "Philippines": {
+    "cn": "菲律宾",
+    "mapFileName": "Philippines"
+  },
+  "Papua New Guinea": {
+    "cn": "巴布亚新几内亚",
+    "mapFileName": "Papua_New_Guinea"
+  },
+  "Poland": {
+    "cn": "波兰",
+    "mapFileName": "Poland"
+  },
+  "Puerto Rico": {
+    "cn": "波多黎各"
+  },
+  "Dem. Rep. Korea": {
+    "cn": "朝鲜",
+    "mapFileName": "North_Korea"
+  },
+  "Portugal": {
+    "cn": "葡萄牙",
+    "mapFileName": "Portugal"
+  },
+  "Paraguay": {
+    "cn": "巴拉圭",
+    "mapFileName": "Paraguay"
+  },
+  "Qatar": {
+    "cn": "卡塔尔",
+    "mapFileName": "Qatar"
+  },
+  "Romania": {
+    "cn": "罗马尼亚",
+    "mapFileName": "Romania"
+  },
+  "Russia": {
+    "cn": "俄罗斯",
+    "mapFileName": "Russia"
+  },
+  "Rwanda": {
+    "cn": "卢旺达",
+    "mapFileName": "Rwanda"
+  },
+  "W. Sahara": {
+    "cn": "西撒哈拉"
+  },
+  "Saudi Arabia": {
+    "cn": "沙特阿拉伯",
+    "mapFileName": "Saudi_Arabia"
+  },
+  "Sudan": {
+    "cn": "苏丹",
+    "mapFileName": "Sudan"
+  },
+  "S. Sudan": {
+    "cn": "南苏丹",
+    "mapFileName": "South_Sudan"
+  },
+  "Senegal": {
+    "cn": "塞内加尔",
+    "mapFileName": "Senegal"
+  },
+  "Solomon Is.": {
+    "cn": "所罗门群岛",
+    "mapFileName": "Solomon_Islands"
+  },
+  "Sierra Leone": {
+    "cn": "塞拉利昂",
+    "mapFileName": "Sierra_Leone"
+  },
+  "El Salvador": {
+    "cn": "萨尔瓦多",
+    "mapFileName": "El_Salvador"
+  },
+  "Somaliland": {
+    "cn": "索马里兰"
+  },
+  "Somalia": {
+    "cn": "索马里",
+    "mapFileName": "Somalia"
+  },
+  "Serbia": {
+    "cn": "塞尔维亚",
+    "mapFileName": "Serbia"
+  },
+  "Suriname": {
+    "cn": "苏里南",
+    "mapFileName": "Suriname"
+  },
+  "Slovakia": {
+    "cn": "斯洛伐克",
+    "mapFileName": "Slovakia"
+  },
+  "Slovenia": {
+    "cn": "斯洛文尼亚",
+    "mapFileName": "Slovenia"
+  },
+  "Sweden": {
+    "cn": "瑞典",
+    "mapFileName": "Sweden"
+  },
+  "Swaziland": {
+    "cn": "斯威士兰",
+    "mapFileName": "Swaziland"
+  },
+  "Syria": {
+    "cn": "叙利亚",
+    "mapFileName": "Syria"
+  },
+  "Chad": {
+    "cn": "乍得",
+    "mapFileName": "Chad"
+  },
+  "Togo": {
+    "cn": "多哥",
+    "mapFileName": "Togo"
+  },
+  "Thailand": {
+    "cn": "泰国",
+    "mapFileName": "Thailand"
+  },
+  "Tajikistan": {
+    "cn": "塔吉克斯坦",
+    "mapFileName": "Tajikistan"
+  },
+  "Turkmenistan": {
+    "cn": "土库曼斯坦",
+    "mapFileName": "Turkmenistan"
+  },
+  "East Timor": {
+    "cn": "东帝汶",
+    "mapFileName": "East_Timor"
+  },
+  "Trinidad and Tobago": {
+    "cn": "特里尼达和多巴哥",
+    "mapFileName": "Trinidad_and_Tobago"
+  },
+  "Tunisia": {
+    "cn": "突尼斯",
+    "mapFileName": "Tunisia"
+  },
+  "Turkey": {
+    "cn": "土耳其",
+    "mapFileName": "Turkey"
+  },
+  "Tanzania": {
+    "cn": "坦桑尼亚",
+    "mapFileName": "Tanzania"
+  },
+  "Uganda": {
+    "cn": "乌干达",
+    "mapFileName": "Uganda"
+  },
+  "Ukraine": {
+    "cn": "乌克兰",
+    "mapFileName": "Ukraine"
+  },
+  "Uruguay": {
+    "cn": "乌拉圭",
+    "mapFileName": "Uruguay"
+  },
+  "United States": {
+    "cn": "美国",
+    "mapFileName": "USA"
+  },
+  "Uzbekistan": {
+    "cn": "乌兹别克斯坦",
+    "mapFileName": "Uzbekistan"
+  },
+  "Venezuela": {
+    "cn": "委内瑞拉",
+    "mapFileName": "Venezuela"
+  },
+  "Vietnam": {
+    "cn": "越南",
+    "mapFileName": "Vietnam"
+  },
+  "Vanuatu": {
+    "cn": "瓦努阿图",
+    "mapFileName": "Vanuatu"
+  },
+  "West Bank": {
+    "cn": "西岸"
+  },
+  "Yemen": {
+    "cn": "也门",
+    "mapFileName": "Yemen"
+  },
+  "South Africa": {
+    "cn": "南非",
+    "mapFileName": "South_Africa"
+  },
+  "Zambia": {
+    "cn": "赞比亚",
+    "mapFileName": "Zambia"
+  },
+  "Zimbabwe": {
+    "cn": "津巴布韦",
+    "mapFileName": "Zimbabwe"
+  }
+}
